@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ![image](https://github.com/Avi-Karalis/Avi-Karalis/assets/118357858/a7b91a3d-a8e0-4a92-983b-34e8187fa2a8), ![image](https://github.com/Avi-Karalis/Avi-Karalis/assets/118357858/35d9ea0d-0e58-44c0-b56d-c35157d447ca), ![image](https://github.com/Avi-Karalis/Avi-Karalis/assets/118357858/d332d21a-601b-4821-8e76-9ddce669ee85)
+- 🌱 I’m currently learning ![image]([https://github.com/Avi-Karalis/Avi-Karalis/assets/118357858/a7b91a3d-a8e0-4a92-983b-34e8187fa2a8](https://cdn.worldvectorlogo.com/logos/c--4.svg)), ![image](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg), ![image]([https://github.com/Avi-Karalis/Avi-Karalis/assets/118357858/d332d21a-601b-4821-8e76-9ddce669ee85](https://cdn.worldvectorlogo.com/logos/vue-js-1.svg))
 
  VueJS
 - 👯 I’m looking to collaborate on ...
