@@ -17,7 +17,6 @@ Hi, I'm Averkios Karalis, also known as Avi!
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="vujs" src="https://img.shields.io/badge/VueJS-5f8bee?style=plastic&logo=vue.js"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
        <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=plastic&logo=amazon-dynamodb&logoColor=white"></a>
-       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=plastic&logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
